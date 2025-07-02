@@ -18,7 +18,7 @@ const socialLinks = [
     },
     {
         id: "Whatsapp",
-        href:"https://wa.me/12382032094",
+        href:"https://wa.me/5512382032094",
         img: "https://img.icons8.com/ios_filled/512/F25081/whatsapp.png",
         alt: "ícone do Whatsapp",
         label: "entra no whatsApp",
